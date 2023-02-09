@@ -1,0 +1,13 @@
+* {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+}
+
